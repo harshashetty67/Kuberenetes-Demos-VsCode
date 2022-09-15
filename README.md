@@ -1,6 +1,7 @@
 # Kuberenetes-Demos-VsCode
 
-ConfigMap Demo
+# ConfigMap Demo command :
+
 $ kubectl apply -f config1.yml
 $ kubectl get po
 $ kubectl exec -it config-po -- sh
