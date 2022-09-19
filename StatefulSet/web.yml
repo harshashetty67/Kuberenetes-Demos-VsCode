@@ -38,4 +38,4 @@ metadata:
 spec:
   selector:
     app: app10
-  clusterIP: None  ########## Set ClusterIP to None - it will define service as headless ########
+  clusterIP: None  ########## Set ClusterIP to None - it will create service as headless ########
